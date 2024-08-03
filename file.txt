@@ -1,1 +1,5 @@
 Test File #1.
+Instruction:
+1. Open the following link: ua.tribuna.com
+2. Click the 'Football' button
+Adding Instruction.
